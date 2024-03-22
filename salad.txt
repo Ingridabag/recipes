@@ -2,5 +2,9 @@ Ingredients: cucumber, totato, red onion
 Parsley, lemon juice and feta are also nice
 If people like it, you can also add coriander
 
+<<<<<<< HEAD
 Conflict
 
+=======
+Wilco was here
+>>>>>>> 175ef146bd6596dc7ec0c7fa99c4177f7987f814

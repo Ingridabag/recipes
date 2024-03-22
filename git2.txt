@@ -1,0 +1,150 @@
+  272  ls
+  273  git diff salad.txt
+  274  nano salad.txt
+  275  git diff
+  276  git diff HEAD salad.txt
+  277  git diff HEAD~1 salad.txt
+  278  git log --oneline
+  279  git diff c45f3e7 salad.txt
+  280  git status
+  281  git restore salad.txt
+  282  cat salad.txt
+  283  nano salad.txt
+  284  git status
+  285  git checkout HEAD salad.txt
+  286  cat salad.txt
+  287  git checkout main 
+  288  git status
+  289  cat salad.txt
+  290  nano salad.txt
+  291  git diff salad.txt
+  292  git log --oneline
+  293  git checkout HEAD~1
+  294  gir checkout HEAD~1 salad.txt
+  295  git checkout HEAD~1 salad.txt
+  296  git status
+  297  git log
+  298  nano salad.txt
+  299  cat salad.txt
+  300  git log --oneline
+  301  git add salad.txt
+  302  cat salad.txt
+  303  git status
+  304  git commit -m "Changes"
+  305  cat salad.txt
+  306  git log
+  307  nano salad.txt
+  308  git log --oneline
+  309  get diff deff1ea salad.txt
+  310  git checkout deff1ea salad.txt
+  311  git log --oneline
+  312  cat salad.txt
+  313  nano salad.txt
+  314  git status
+  315  git commit -m "Changes 1"
+  316  git log --oneline
+  317  cat salad.txt
+  318  nano salad.txt
+  319  git diff
+  320  git commit -m "Changes 2" 
+  321  git add salad.txt
+  322  git commit -m "Changes 2" 
+  323  git log --oneline
+  324  git checkout HEAD~1 salad.txt
+  325  git log --oneline
+  326  cat saald.txt
+  327  cat salad.txt
+  328  git checkout
+  329  git log
+  330  git log --oneline
+  331  git checkout 6634f8c salad.txt
+  332  git log --oneline
+  333  cat salad.txt
+  334  git status
+  335  git add salad.txt
+  336  git commit -m "keeping changes"
+  337  git status
+  338  git log
+  339  git diff salad.txt
+  340  cat salad.txt
+  341  echo "hello" > salad.txt
+  342  git diff
+  343  git status
+  344  git commit -m "Adding hello"
+  345  \git status
+  346  git commit -m "Adding hello"
+  347  cat salad.txt
+  348  git diff salad.txt
+  349  git add salad.txt
+  350  git diff salad.txt
+  351  cat salad.txt
+  352  nano salad.txt
+  353  git restore salad.txt
+  354  git diff salad.txt
+  355  cat salad.txt
+  356  git checkout HEAD salad.txt
+  357  git diff salad.txt
+  358  git status
+  359  cat salad.txt
+  360  git log --oneline
+  361  pwd
+  362  mkdir results
+  363  ls
+  364  ls -l
+  365  git status
+  366  touch a.csv b.csv c.csv results/a.out results/b.out
+  367  ls 0l
+  368  ls -l
+  369  git status
+  370  nano .gitignore
+  371  cat .gitignore
+  372  ls -l .csv
+  373  ls -l *.csv
+  374  git status
+  375  git add .gitignore
+  376  git status
+  377  git commit -m "ignore data files and the result folder"
+  378  git status
+  379  git log
+  380  git status
+  381  git add a.csv
+  382  nano .gitignore
+  383  git add results/
+  384  git status
+  385  git add a.csv
+  386  git add -f a.csv
+  387  git status
+  388  nano .gitignore
+  389  cat .gitignore
+  390  git add .gitognore
+  391  git add .gitignore
+  392  git status
+  393  git commit -m "added a.csv to be excluded"
+  394  git status
+  395  git log
+  396  git diff
+  397  cat .ignore
+  398  cat .gitignore
+  399  git branch
+  400  git switch dev
+  401  git remote -v
+  402  git remote add origin
+  403  git remote add origin git@github.com:Ingridabag/recipes.git
+  404  git branch -M main
+  405  git remote -v
+  406  git pull
+  407  ls -al ~/.ssh
+  408  ssh -keygen -t ed25519 -C "i.bagdonaite@vu.nl"
+  409  ssh-keygen -t ed25519 -C "i.bagdonaite@vu.nl"
+  410  ls -al ~/,ssh
+  411  ls -al ~/.ssh
+  412  ssh -T git.github.com
+  413  q
+  414  q
+  415  cat ~/.ssh/id_ed25519.pub
+  416  ssh -T git.github.com
+  417  ssh -T git.github.com
+  418  ssh -T git@github.com
+  419  git push orgin main
+  420  git push origin main
+  421  history | tail -n 150 > git2.txt
