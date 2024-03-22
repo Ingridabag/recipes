@@ -1,4 +1,5 @@
 hello.txt
 *.csv
-results
+!a.csv
+results/
 
